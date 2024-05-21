@@ -5,7 +5,7 @@
 "blob":
 "d3014a12-161f-4bda-bc4e-9e125be15bb4",
 "created":
-"2022-06-09T20:48:27.435739+00:00",
+"2022-06-09T20:48:27.435739Z",
 "metadata":
 {
 "@context":
@@ -140,7 +140,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:03.927913+00:00",
+"2023-03-28T16:17:03.927913Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8000/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8000_ses-2019-11-11-0000-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -152,7 +152,7 @@
 "blob":
 "fe5ae816-dab3-4728-bd2d-b708cee23ef5",
 "created":
-"2022-06-09T20:48:28.348139+00:00",
+"2022-06-09T20:48:28.348139Z",
 "metadata":
 {
 "@context":
@@ -287,7 +287,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:29.467540+00:00",
+"2023-03-28T16:17:29.467540Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8001/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8001_ses-2019-11-11-0001-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -299,7 +299,7 @@
 "blob":
 "56823f5c-d220-49cc-af7c-9f4ab84debe2",
 "created":
-"2022-06-09T20:48:28.587840+00:00",
+"2022-06-09T20:48:28.587840Z",
 "metadata":
 {
 "@context":
@@ -434,7 +434,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:30.084723+00:00",
+"2023-03-28T16:17:30.084723Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8002/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8002_ses-2019-11-11-0002-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -446,7 +446,7 @@
 "blob":
 "ca15867c-64b9-4d41-b151-8f60b63e14cd",
 "created":
-"2022-06-09T20:48:28.210625+00:00",
+"2022-06-09T20:48:28.210625Z",
 "metadata":
 {
 "@context":
@@ -581,7 +581,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:50.640246+00:00",
+"2023-03-28T16:17:50.640246Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8003/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8003_ses-2019-11-11-0003-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -593,7 +593,7 @@
 "blob":
 "4886e533-e1a9-4d23-8763-c7f879aac2f3",
 "created":
-"2022-06-09T20:48:28.176193+00:00",
+"2022-06-09T20:48:28.176193Z",
 "metadata":
 {
 "@context":
@@ -728,7 +728,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:28.891947+00:00",
+"2023-03-28T16:17:28.891947Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8005/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8005_ses-2019-11-18-0001-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -740,7 +740,7 @@
 "blob":
 "f8339016-3cf0-4f91-a545-ba61988ce421",
 "created":
-"2022-06-09T20:48:31.472066+00:00",
+"2022-06-09T20:48:31.472066Z",
 "metadata":
 {
 "@context":
@@ -875,7 +875,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:05.963033+00:00",
+"2023-03-28T16:18:05.963033Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8006/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8006_ses-2019-11-22-0004-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -887,7 +887,7 @@
 "blob":
 "1a60ffbd-9725-49b6-bbf0-99d544b036e4",
 "created":
-"2022-06-09T20:48:33.004079+00:00",
+"2022-06-09T20:48:33.004079Z",
 "metadata":
 {
 "@context":
@@ -1022,7 +1022,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:06.559277+00:00",
+"2023-03-28T16:18:06.559277Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8007/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8007_ses-2019-11-22-0005-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -1034,7 +1034,7 @@
 "blob":
 "57ea60ec-c3a3-4fa0-ba95-2cb605776654",
 "created":
-"2022-06-09T20:48:33.734626+00:00",
+"2022-06-09T20:48:33.734626Z",
 "metadata":
 {
 "@context":
@@ -1169,7 +1169,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:07.118950+00:00",
+"2023-03-28T16:18:07.118950Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8008/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8008_ses-2019-11-25-0000-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -1181,7 +1181,7 @@
 "blob":
 "1984f03f-04d6-4f7e-9145-17dd5e6fd6b6",
 "created":
-"2022-06-09T20:48:34.580316+00:00",
+"2022-06-09T20:48:34.580316Z",
 "metadata":
 {
 "@context":
@@ -1316,7 +1316,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:51.235098+00:00",
+"2023-03-28T16:17:51.235098Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8009/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8009_ses-2019-11-25-0001-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -1328,7 +1328,7 @@
 "blob":
 "3a0df9f5-d89b-4861-8ecc-ec6a8cd8c92d",
 "created":
-"2022-06-09T20:48:34.635811+00:00",
+"2022-06-09T20:48:34.635811Z",
 "metadata":
 {
 "@context":
@@ -1463,7 +1463,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:31.000521+00:00",
+"2023-03-28T16:17:31.000521Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8010/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8010_ses-2019-11-25-0002-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -1475,7 +1475,7 @@
 "blob":
 "5f98060e-e67c-48d5-ae62-9fd980bfdaa6",
 "created":
-"2022-06-09T20:48:35.944138+00:00",
+"2022-06-09T20:48:35.944138Z",
 "metadata":
 {
 "@context":
@@ -1610,7 +1610,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:51.778585+00:00",
+"2023-03-28T16:17:51.778585Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8011/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8011_ses-2019-11-25-0003-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -1622,7 +1622,7 @@
 "blob":
 "62084d10-de44-428b-803a-db6b1a2188bc",
 "created":
-"2022-06-09T20:48:37.692028+00:00",
+"2022-06-09T20:48:37.692028Z",
 "metadata":
 {
 "@context":
@@ -1757,7 +1757,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:31.629548+00:00",
+"2023-03-28T16:17:31.629548Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8011/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8011_ses-2019-11-25-0004-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -1769,7 +1769,7 @@
 "blob":
 "c91510ae-f466-4a6d-8b37-3209465464a4",
 "created":
-"2022-06-09T20:48:38.146282+00:00",
+"2022-06-09T20:48:38.146282Z",
 "metadata":
 {
 "@context":
@@ -1904,7 +1904,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:07.675136+00:00",
+"2023-03-28T16:18:07.675136Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8011/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8011_ses-2019-11-25-0005-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -1916,7 +1916,7 @@
 "blob":
 "5401c582-6786-4775-8a8e-f7352f529f1e",
 "created":
-"2022-06-09T20:48:40.217644+00:00",
+"2022-06-09T20:48:40.217644Z",
 "metadata":
 {
 "@context":
@@ -2051,7 +2051,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:52.256421+00:00",
+"2023-03-28T16:17:52.256421Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8012/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8012_ses-2019-12-17-0003-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -2063,7 +2063,7 @@
 "blob":
 "51d34627-df06-4739-91ff-c4b505db3599",
 "created":
-"2022-06-09T20:48:40.420970+00:00",
+"2022-06-09T20:48:40.420970Z",
 "metadata":
 {
 "@context":
@@ -2198,7 +2198,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:08.222987+00:00",
+"2023-03-28T16:18:08.222987Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8013/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8013_ses-2019-12-18-0000-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -2210,7 +2210,7 @@
 "blob":
 "f7f3ec17-bd06-46e7-9a62-b1c4320517bb",
 "created":
-"2022-06-09T20:48:40.800168+00:00",
+"2022-06-09T20:48:40.800168Z",
 "metadata":
 {
 "@context":
@@ -2345,7 +2345,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:04.429262+00:00",
+"2023-03-28T16:17:04.429262Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8013/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8013_ses-2019-12-18-0001-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -2357,7 +2357,7 @@
 "blob":
 "d9508b9b-a26c-41f2-b270-83e7b48684c6",
 "created":
-"2022-06-09T20:48:42.841963+00:00",
+"2022-06-09T20:48:42.841963Z",
 "metadata":
 {
 "@context":
@@ -2492,7 +2492,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:32.285685+00:00",
+"2023-03-28T16:17:32.285685Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8014/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8014_ses-2019-12-18-0003-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -2504,7 +2504,7 @@
 "blob":
 "cd22be4a-5ec6-4450-9737-aaf77fbc7df4",
 "created":
-"2022-06-09T20:48:43.197237+00:00",
+"2022-06-09T20:48:43.197237Z",
 "metadata":
 {
 "@context":
@@ -2639,7 +2639,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:04.889978+00:00",
+"2023-03-28T16:17:04.889978Z",
 "path":
 "sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8015/sub-oviDNSS1-&-SS01048-driving-GCaMP7f-fly-ID#8015_ses-2019-12-18-0004-oviDNSS1&SS01048-GCaMP7f-nwb.nwb",
 "size":
@@ -2651,7 +2651,7 @@
 "blob":
 "c4311020-309d-491e-adbd-111a302e3da6",
 "created":
-"2022-06-09T20:48:45.537384+00:00",
+"2022-06-09T20:48:45.537384Z",
 "metadata":
 {
 "@context":
@@ -2786,7 +2786,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:32.925792+00:00",
+"2023-03-28T16:17:32.925792Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9000/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9000_ses-2019-12-10-0000-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -2798,7 +2798,7 @@
 "blob":
 "ea4f78f1-df2f-41a2-af08-fb0ae64ee47c",
 "created":
-"2022-06-09T20:48:46.875221+00:00",
+"2022-06-09T20:48:46.875221Z",
 "metadata":
 {
 "@context":
@@ -2933,7 +2933,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:33.632921+00:00",
+"2023-03-28T16:17:33.632921Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9001/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9001_ses-2019-12-10-0001-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -2945,7 +2945,7 @@
 "blob":
 "da289f23-bdd5-4df6-9f10-d5f0e66ddd27",
 "created":
-"2022-06-09T20:48:46.309888+00:00",
+"2022-06-09T20:48:46.309888Z",
 "metadata":
 {
 "@context":
@@ -3080,7 +3080,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:05.523242+00:00",
+"2023-03-28T16:17:05.523242Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9001/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9001_ses-2019-12-10-0002-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -3092,7 +3092,7 @@
 "blob":
 "3e42e07b-c17b-40e9-80e3-f8ac91959394",
 "created":
-"2022-06-09T20:48:48.014397+00:00",
+"2022-06-09T20:48:48.014397Z",
 "metadata":
 {
 "@context":
@@ -3227,7 +3227,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:08.872660+00:00",
+"2023-03-28T16:18:08.872660Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9003/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9003_ses-2019-12-10-0003-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -3239,7 +3239,7 @@
 "blob":
 "a4dc6997-a7d9-4600-ab02-f8adcb06b98f",
 "created":
-"2022-06-09T20:48:49.214869+00:00",
+"2022-06-09T20:48:49.214869Z",
 "metadata":
 {
 "@context":
@@ -3374,7 +3374,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:34.366325+00:00",
+"2023-03-28T16:17:34.366325Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9003/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9003_ses-2019-12-10-0004-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -3386,7 +3386,7 @@
 "blob":
 "528a0ebf-7905-4efc-a4ff-47cbda202a6b",
 "created":
-"2022-06-09T20:48:52.764771+00:00",
+"2022-06-09T20:48:52.764771Z",
 "metadata":
 {
 "@context":
@@ -3521,7 +3521,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:06.451924+00:00",
+"2023-03-28T16:17:06.451924Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9003/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9003_ses-2019-12-10-0005-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -3533,7 +3533,7 @@
 "blob":
 "1aeb8cf3-fb53-4111-a453-a5bd90e34242",
 "created":
-"2022-06-09T20:48:51.801433+00:00",
+"2022-06-09T20:48:51.801433Z",
 "metadata":
 {
 "@context":
@@ -3668,7 +3668,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:05.980258+00:00",
+"2023-03-28T16:17:05.980258Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9006/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9006_ses-2019-12-17-0000-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -3680,7 +3680,7 @@
 "blob":
 "9774c54f-5bde-4d36-8a1e-998c8722e4e9",
 "created":
-"2022-06-09T20:48:52.534074+00:00",
+"2022-06-09T20:48:52.534074Z",
 "metadata":
 {
 "@context":
@@ -3815,7 +3815,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:53.364695+00:00",
+"2023-03-28T16:17:53.364695Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9006/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9006_ses-2019-12-17-0001-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -3827,7 +3827,7 @@
 "blob":
 "aa4513c3-0a73-4c68-8903-4aaa35f516c2",
 "created":
-"2022-06-09T20:48:52.424292+00:00",
+"2022-06-09T20:48:52.424292Z",
 "metadata":
 {
 "@context":
@@ -3962,7 +3962,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:52.811594+00:00",
+"2023-03-28T16:17:52.811594Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9008/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9008_ses-2019-12-17-0002-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -3974,7 +3974,7 @@
 "blob":
 "eeb40d71-a2bb-4468-a496-77e1c7a9c3a6",
 "created":
-"2022-06-09T20:48:52.920119+00:00",
+"2022-06-09T20:48:52.920119Z",
 "metadata":
 {
 "@context":
@@ -4109,7 +4109,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:09.770777+00:00",
+"2023-03-28T16:18:09.770777Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9009/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9009_ses-2019-12-19-0003-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -4121,7 +4121,7 @@
 "blob":
 "22b44ac3-5ba2-4e5c-a232-16e194059fb3",
 "created":
-"2022-06-09T20:48:55.836150+00:00",
+"2022-06-09T20:48:55.836150Z",
 "metadata":
 {
 "@context":
@@ -4256,7 +4256,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:10.474220+00:00",
+"2023-03-28T16:18:10.474220Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9010/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9010_ses-2019-12-19-0004-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -4268,7 +4268,7 @@
 "blob":
 "cd6da398-18b9-4fbd-b040-26902f66f647",
 "created":
-"2022-06-09T20:48:57.120345+00:00",
+"2022-06-09T20:48:57.120345Z",
 "metadata":
 {
 "@context":
@@ -4403,7 +4403,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:35.079760+00:00",
+"2023-03-28T16:17:35.079760Z",
 "path":
 "sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9010/sub-oviDNSS1-&-SS65423-driving-GCaMP7f-fly-ID#9010_ses-2019-12-19-0005-oviDNSS1&SS65423-GCaMP7f-nwb.nwb",
 "size":
@@ -4415,7 +4415,7 @@
 "blob":
 "67d84ece-d564-40e1-aa1e-cd446268cf04",
 "created":
-"2022-06-09T20:48:58.413347+00:00",
+"2022-06-09T20:48:58.413347Z",
 "metadata":
 {
 "@context":
@@ -4550,7 +4550,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:36.145999+00:00",
+"2023-03-28T16:17:36.145999Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7b-fly-ID#6000/sub-oviDNSS1-driving-GCaMP7b-fly-ID#6000_ses-2019-06-10-0000-oviDNSS1-GCaMP7b-nwb.nwb",
 "size":
@@ -4562,7 +4562,7 @@
 "blob":
 "7cb92156-57ed-42e4-99d0-7dfe0dfea915",
 "created":
-"2022-06-09T20:48:57.478818+00:00",
+"2022-06-09T20:48:57.478818Z",
 "metadata":
 {
 "@context":
@@ -4697,7 +4697,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:35.529395+00:00",
+"2023-03-28T16:17:35.529395Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7b-fly-ID#6001/sub-oviDNSS1-driving-GCaMP7b-fly-ID#6001_ses-2019-06-10-0001-oviDNSS1-GCaMP7b-nwb.nwb",
 "size":
@@ -4709,7 +4709,7 @@
 "blob":
 "b217fb69-aa0b-43b4-a7c4-906c79a599a3",
 "created":
-"2022-06-09T20:48:59.206968+00:00",
+"2022-06-09T20:48:59.206968Z",
 "metadata":
 {
 "@context":
@@ -4844,7 +4844,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:07.104197+00:00",
+"2023-03-28T16:17:07.104197Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7b-fly-ID#6001/sub-oviDNSS1-driving-GCaMP7b-fly-ID#6001_ses-2019-06-10-0002-oviDNSS1-GCaMP7b-nwb.nwb",
 "size":
@@ -4856,7 +4856,7 @@
 "blob":
 "32be5dd1-d5bb-44e6-9665-b3ff80be6da1",
 "created":
-"2022-06-09T20:49:00.666716+00:00",
+"2022-06-09T20:49:00.666716Z",
 "metadata":
 {
 "@context":
@@ -4991,7 +4991,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:54.109487+00:00",
+"2023-03-28T16:17:54.109487Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7b-fly-ID#6001/sub-oviDNSS1-driving-GCaMP7b-fly-ID#6001_ses-2019-06-10-0003-oviDNSS1-GCaMP7b-nwb.nwb",
 "size":
@@ -5003,7 +5003,7 @@
 "blob":
 "79cd47ab-6c1d-47c1-a9d6-78f09516fde9",
 "created":
-"2022-06-09T20:49:01.199503+00:00",
+"2022-06-09T20:49:01.199503Z",
 "metadata":
 {
 "@context":
@@ -5138,7 +5138,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:07.513872+00:00",
+"2023-03-28T16:17:07.513872Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7b-fly-ID#6004/sub-oviDNSS1-driving-GCaMP7b-fly-ID#6004_ses-2019-06-10-0005-oviDNSS1-GCaMP7b-nwb.nwb",
 "size":
@@ -5150,7 +5150,7 @@
 "blob":
 "fb47bee9-e17a-424e-9911-d7a2972f04de",
 "created":
-"2022-06-09T20:49:21.980394+00:00",
+"2022-06-09T20:49:21.980394Z",
 "metadata":
 {
 "@context":
@@ -5285,7 +5285,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:12.218041+00:00",
+"2023-03-28T16:18:12.218041Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1102/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1102_ses-2020-06-25-0003-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -5297,7 +5297,7 @@
 "blob":
 "04621ca8-3fed-47b5-847e-5e1a2d76c7b6",
 "created":
-"2022-06-09T20:49:31.089984+00:00",
+"2022-06-09T20:49:31.089984Z",
 "metadata":
 {
 "@context":
@@ -5432,7 +5432,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:14.432220+00:00",
+"2023-03-28T16:18:14.432220Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1103/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1103_ses-2020-06-25-0004-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -5444,7 +5444,7 @@
 "blob":
 "b3e307c1-862f-496f-ad1e-1f2bcfe8d624",
 "created":
-"2022-06-09T20:49:32.643421+00:00",
+"2022-06-09T20:49:32.643421Z",
 "metadata":
 {
 "@context":
@@ -5579,7 +5579,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:56.098353+00:00",
+"2023-03-28T16:17:56.098353Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1200/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1200_ses-2020-07-16-0000-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -5591,7 +5591,7 @@
 "blob":
 "2244aa7c-528b-4146-b1f2-e685fe657e4a",
 "created":
-"2022-06-09T20:49:43.626693+00:00",
+"2022-06-09T20:49:43.626693Z",
 "metadata":
 {
 "@context":
@@ -5726,7 +5726,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:18.700089+00:00",
+"2023-03-28T16:18:18.700089Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1200/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1200_ses-2020-07-16-0001-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -5738,7 +5738,7 @@
 "blob":
 "0e549a6e-0ea4-43cf-a37e-b7f7cd65f3c6",
 "created":
-"2022-06-09T20:49:25.042644+00:00",
+"2022-06-09T20:49:25.042644Z",
 "metadata":
 {
 "@context":
@@ -5873,7 +5873,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:38.164284+00:00",
+"2023-03-28T16:17:38.164284Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1201/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1201_ses-2020-07-16-0002-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -5885,7 +5885,7 @@
 "blob":
 "f8572e59-52b7-4e0e-9ff5-dbad0d8758f3",
 "created":
-"2022-06-09T20:49:36.990567+00:00",
+"2022-06-09T20:49:36.990567Z",
 "metadata":
 {
 "@context":
@@ -6020,7 +6020,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:16.792948+00:00",
+"2023-03-28T16:18:16.792948Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1201/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1201_ses-2020-07-16-0003-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -6032,7 +6032,7 @@
 "blob":
 "20991232-abe2-4a57-bae9-67725810d8f6",
 "created":
-"2022-06-09T20:49:59.050805+00:00",
+"2022-06-09T20:49:59.050805Z",
 "metadata":
 {
 "@context":
@@ -6167,7 +6167,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:21.677593+00:00",
+"2023-03-28T16:18:21.677593Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1202/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1202_ses-2020-07-16-0004-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -6179,7 +6179,7 @@
 "blob":
 "aaafc053-de13-4fc9-9d37-1ec247791a04",
 "created":
-"2022-06-09T20:50:02.560115+00:00",
+"2022-06-09T20:50:02.560115Z",
 "metadata":
 {
 "@context":
@@ -6314,7 +6314,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:25.391301+00:00",
+"2023-03-28T16:18:25.391301Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1203/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1203_ses-2020-07-16-0005-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -6326,7 +6326,7 @@
 "blob":
 "6536ebc9-cade-414d-b6da-17c26709917c",
 "created":
-"2022-06-09T20:49:38.598716+00:00",
+"2022-06-09T20:49:38.598716Z",
 "metadata":
 {
 "@context":
@@ -6461,7 +6461,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:08.979623+00:00",
+"2023-03-28T16:17:08.979623Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1204/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1204_ses-2020-07-16-0006-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -6473,7 +6473,7 @@
 "blob":
 "edb673aa-c1da-47ff-86a7-0884c5aba72b",
 "created":
-"2022-06-09T20:50:01.147516+00:00",
+"2022-06-09T20:50:01.147516Z",
 "metadata":
 {
 "@context":
@@ -6608,7 +6608,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:58.012757+00:00",
+"2023-03-28T16:17:58.012757Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1204/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1204_ses-2020-07-16-0007-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -6620,7 +6620,7 @@
 "blob":
 "1f1019e4-dbf4-4ba0-8890-b5e02dab24ae",
 "created":
-"2022-06-09T20:49:59.779741+00:00",
+"2022-06-09T20:49:59.779741Z",
 "metadata":
 {
 "@context":
@@ -6755,7 +6755,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:23.594003+00:00",
+"2023-03-28T16:18:23.594003Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1205/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1205_ses-2020-07-17-0000-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -6767,7 +6767,7 @@
 "blob":
 "13af6693-81cb-40af-a960-fbb4e340f5f3",
 "created":
-"2022-06-09T20:50:26.129421+00:00",
+"2022-06-09T20:50:26.129421Z",
 "metadata":
 {
 "@context":
@@ -6902,7 +6902,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:27.078037+00:00",
+"2023-03-28T16:18:27.078037Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1206/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1206_ses-2020-07-17-0002-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -6914,7 +6914,7 @@
 "blob":
 "905c9b3b-3259-41d4-9b00-09fb9733f36b",
 "created":
-"2022-06-09T20:50:38.278966+00:00",
+"2022-06-09T20:50:38.278966Z",
 "metadata":
 {
 "@context":
@@ -7049,7 +7049,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:13.184466+00:00",
+"2023-03-28T16:17:13.184466Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1207/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1207_ses-2020-07-17-0003-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -7061,7 +7061,7 @@
 "blob":
 "c905f104-b9e5-4047-aaa5-b6afe167f1a0",
 "created":
-"2022-06-09T20:50:33.222623+00:00",
+"2022-06-09T20:50:33.222623Z",
 "metadata":
 {
 "@context":
@@ -7196,7 +7196,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:40.129274+00:00",
+"2023-03-28T16:17:40.129274Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1216/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1216_ses-2020-07-23-0003-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -7208,7 +7208,7 @@
 "blob":
 "26efe3a5-ee5c-4b06-a647-dafa091ad6d2",
 "created":
-"2022-06-09T20:50:29.755094+00:00",
+"2022-06-09T20:50:29.755094Z",
 "metadata":
 {
 "@context":
@@ -7343,7 +7343,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:11.056948+00:00",
+"2023-03-28T16:17:11.056948Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1218/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1218_ses-2020-07-23-0007-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -7355,7 +7355,7 @@
 "blob":
 "a952c481-3ad5-4395-a095-6616c61bab6e",
 "created":
-"2022-06-09T20:51:06.366833+00:00",
+"2022-06-09T20:51:06.366833Z",
 "metadata":
 {
 "@context":
@@ -7490,7 +7490,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:31.071922+00:00",
+"2023-03-28T16:18:31.071922Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1219/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1219_ses-2020-07-24-0000-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -7502,7 +7502,7 @@
 "blob":
 "8cd9fba8-5f40-4e81-a6c4-57322a0a6189",
 "created":
-"2022-06-09T20:51:04.375081+00:00",
+"2022-06-09T20:51:04.375081Z",
 "metadata":
 {
 "@context":
@@ -7637,7 +7637,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:15.303078+00:00",
+"2023-03-28T16:17:15.303078Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1220/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1220_ses-2020-07-24-0001-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -7649,7 +7649,7 @@
 "blob":
 "1bcc181c-e539-4b81-9dd1-a885af6cff65",
 "created":
-"2022-06-09T20:50:49.488307+00:00",
+"2022-06-09T20:50:49.488307Z",
 "metadata":
 {
 "@context":
@@ -7784,7 +7784,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:28.984050+00:00",
+"2023-03-28T16:18:28.984050Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1221/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#1221_ses-2020-07-24-0002-oviDNSS1-GCaMP7f&CsChrimson-periodicstim-nwb.nwb",
 "size":
@@ -7796,7 +7796,7 @@
 "blob":
 "3f92ac64-7b11-4384-8d47-ff94f6b1e058",
 "created":
-"2022-06-09T20:50:48.503243+00:00",
+"2022-06-09T20:50:48.503243Z",
 "metadata":
 {
 "@context":
@@ -7931,7 +7931,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:59.775143+00:00",
+"2023-03-28T16:17:59.775143Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5000/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5000_ses-2019-08-27-0003-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -7943,7 +7943,7 @@
 "blob":
 "329e48cb-fbe3-4cfc-986f-47fb308e640f",
 "created":
-"2022-06-09T20:51:04.281666+00:00",
+"2022-06-09T20:51:04.281666Z",
 "metadata":
 {
 "@context":
@@ -8078,7 +8078,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:42.048315+00:00",
+"2023-03-28T16:17:42.048315Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5001/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5001_ses-2019-08-27-0004-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -8090,7 +8090,7 @@
 "blob":
 "e1723366-57d6-4e8e-a11d-91b234f5f634",
 "created":
-"2022-06-09T20:51:07.343099+00:00",
+"2022-06-09T20:51:07.343099Z",
 "metadata":
 {
 "@context":
@@ -8225,7 +8225,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:33.144359+00:00",
+"2023-03-28T16:18:33.144359Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5001/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5001_ses-2019-08-27-0005-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -8237,7 +8237,7 @@
 "blob":
 "7c3aadc0-53eb-4009-86e2-d56286a67862",
 "created":
-"2022-06-09T20:51:07.296802+00:00",
+"2022-06-09T20:51:07.296802Z",
 "metadata":
 {
 "@context":
@@ -8372,7 +8372,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:01.609693+00:00",
+"2023-03-28T16:18:01.609693Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5002/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5002_ses-2019-08-29-0000-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -8384,7 +8384,7 @@
 "blob":
 "8c65d1db-5c89-4dfe-81e1-7564b659dd52",
 "created":
-"2022-06-09T20:51:36.421535+00:00",
+"2022-06-09T20:51:36.421535Z",
 "metadata":
 {
 "@context":
@@ -8519,7 +8519,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:43.899444+00:00",
+"2023-03-28T16:17:43.899444Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5003/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5003_ses-2019-08-29-0001-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -8531,7 +8531,7 @@
 "blob":
 "b5647606-ac78-4b5d-b8bb-e6701d764548",
 "created":
-"2022-06-09T20:51:14.259046+00:00",
+"2022-06-09T20:51:14.259046Z",
 "metadata":
 {
 "@context":
@@ -8666,7 +8666,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:35.212338+00:00",
+"2023-03-28T16:18:35.212338Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5003/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5003_ses-2019-08-29-0002-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -8678,7 +8678,7 @@
 "blob":
 "1f99217b-cb49-4043-863f-9cde9d01131e",
 "created":
-"2022-06-09T20:51:38.755611+00:00",
+"2022-06-09T20:51:38.755611Z",
 "metadata":
 {
 "@context":
@@ -8813,7 +8813,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:37.064983+00:00",
+"2023-03-28T16:18:37.064983Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5004/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5004_ses-2019-08-29-0003-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -8825,7 +8825,7 @@
 "blob":
 "e849b63b-739d-45de-afa8-30f4db106279",
 "created":
-"2022-06-09T20:51:39.893853+00:00",
+"2022-06-09T20:51:39.893853Z",
 "metadata":
 {
 "@context":
@@ -8960,7 +8960,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:03.416214+00:00",
+"2023-03-28T16:18:03.416214Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5005/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5005_ses-2019-08-29-0004-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -8972,7 +8972,7 @@
 "blob":
 "ea66dfad-823e-41f6-b050-9fece08b04f7",
 "created":
-"2022-06-09T20:51:38.866630+00:00",
+"2022-06-09T20:51:38.866630Z",
 "metadata":
 {
 "@context":
@@ -9107,7 +9107,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:38.833217+00:00",
+"2023-03-28T16:18:38.833217Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5006/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5006_ses-2019-08-29-0005-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -9119,7 +9119,7 @@
 "blob":
 "22d5733e-abe6-45ab-a530-a606b609796e",
 "created":
-"2022-06-09T20:51:43.176069+00:00",
+"2022-06-09T20:51:43.176069Z",
 "metadata":
 {
 "@context":
@@ -9254,7 +9254,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:17.281472+00:00",
+"2023-03-28T16:17:17.281472Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5007/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5007_ses-2019-09-05-0000-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -9266,7 +9266,7 @@
 "blob":
 "2d7203df-75ca-46ef-8550-caa2798a6b33",
 "created":
-"2022-06-09T20:52:15.188161+00:00",
+"2022-06-09T20:52:15.188161Z",
 "metadata":
 {
 "@context":
@@ -9401,7 +9401,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:21.583163+00:00",
+"2023-03-28T16:17:21.583163Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5007/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5007_ses-2019-09-05-0001-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -9413,7 +9413,7 @@
 "blob":
 "608c5f50-7c85-41e7-b9b5-bd2fe5284408",
 "created":
-"2022-06-09T20:52:14.050411+00:00",
+"2022-06-09T20:52:14.050411Z",
 "metadata":
 {
 "@context":
@@ -9548,7 +9548,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:41.073340+00:00",
+"2023-03-28T16:18:41.073340Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5008/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5008_ses-2019-09-05-0002-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -9560,7 +9560,7 @@
 "blob":
 "06fa6d39-cfa1-4add-84f2-7c8a1105d522",
 "created":
-"2022-06-09T20:52:12.919414+00:00",
+"2022-06-09T20:52:12.919414Z",
 "metadata":
 {
 "@context":
@@ -9695,7 +9695,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:19.461416+00:00",
+"2023-03-28T16:17:19.461416Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5008/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5008_ses-2019-09-05-0003-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -9707,7 +9707,7 @@
 "blob":
 "6b1e397b-403d-44e6-88c1-0b97e08d961d",
 "created":
-"2022-06-09T20:52:15.644408+00:00",
+"2022-06-09T20:52:15.644408Z",
 "metadata":
 {
 "@context":
@@ -9842,7 +9842,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:23.802483+00:00",
+"2023-03-28T16:17:23.802483Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5009/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5009_ses-2019-09-05-0004-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -9854,7 +9854,7 @@
 "blob":
 "59a14158-9100-4a69-90de-b170273197e7",
 "created":
-"2022-06-09T20:52:09.125753+00:00",
+"2022-06-09T20:52:09.125753Z",
 "metadata":
 {
 "@context":
@@ -9989,7 +9989,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:45.698307+00:00",
+"2023-03-28T16:17:45.698307Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5010/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5010_ses-2019-09-05-0005-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -10001,7 +10001,7 @@
 "blob":
 "7e3cf217-a870-4f12-95f3-397e33871ec4",
 "created":
-"2022-06-09T20:52:25.563489+00:00",
+"2022-06-09T20:52:25.563489Z",
 "metadata":
 {
 "@context":
@@ -10136,7 +10136,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:47.781180+00:00",
+"2023-03-28T16:17:47.781180Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5011/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5011_ses-2019-09-06-0000-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -10148,7 +10148,7 @@
 "blob":
 "77bf0a49-4c8e-4cbd-a9dd-a8f92bd4122d",
 "created":
-"2022-06-09T20:52:50.581475+00:00",
+"2022-06-09T20:52:50.581475Z",
 "metadata":
 {
 "@context":
@@ -10283,7 +10283,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:26.166547+00:00",
+"2023-03-28T16:17:26.166547Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5012/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5012_ses-2019-09-06-0001-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -10295,7 +10295,7 @@
 "blob":
 "ce821ec8-2290-4f18-b02a-f59b57107522",
 "created":
-"2022-06-09T20:52:43.158177+00:00",
+"2022-06-09T20:52:43.158177Z",
 "metadata":
 {
 "@context":
@@ -10430,7 +10430,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:50.189128+00:00",
+"2023-03-28T16:17:50.189128Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5012/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5012_ses-2019-09-06-0002-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -10442,7 +10442,7 @@
 "blob":
 "6f36f8e3-e13a-48e6-9a98-c6ccc0568189",
 "created":
-"2022-06-09T20:52:45.232467+00:00",
+"2022-06-09T20:52:45.232467Z",
 "metadata":
 {
 "@context":
@@ -10577,7 +10577,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:05.369319+00:00",
+"2023-03-28T16:18:05.369319Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5013/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5013_ses-2019-09-06-0003-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -10589,7 +10589,7 @@
 "blob":
 "f1af6773-160e-41f8-a8fa-cf662353c507",
 "created":
-"2022-06-09T20:52:50.665619+00:00",
+"2022-06-09T20:52:50.665619Z",
 "metadata":
 {
 "@context":
@@ -10724,7 +10724,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:28.175889+00:00",
+"2023-03-28T16:17:28.175889Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5014/sub-oviDNSS1-driving-GCaMP7f-&-CsChrimson-fly-ID#5014_ses-2019-11-15-0000-oviDNSS1-GCaMP7f&CsChrimson-manualstim-nwb.nwb",
 "size":
@@ -10736,7 +10736,7 @@
 "blob":
 "686c0a01-70f2-4ead-af3f-0e16df53ff5d",
 "created":
-"2022-06-09T20:52:36.583570+00:00",
+"2022-06-09T20:52:36.583570Z",
 "metadata":
 {
 "@context":
@@ -10871,7 +10871,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:17:48.470774+00:00",
+"2023-03-28T16:17:48.470774Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#10000/sub-oviDNSS1-driving-GCaMP7f-fly-ID#10000_ses-2019-11-18-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -10883,7 +10883,7 @@
 "blob":
 "7ba75ff3-240b-4716-a6ed-f9d71274c1f5",
 "created":
-"2022-06-09T20:53:15.676631+00:00",
+"2022-06-09T20:53:15.676631Z",
 "metadata":
 {
 "@context":
@@ -11018,7 +11018,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:15.877644+00:00",
+"2023-03-28T16:19:15.877644Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#2000/sub-oviDNSS1-driving-GCaMP7f-fly-ID#2000_ses-2020-07-14-0001-oviDNSS1-GCaMP7f-periodicstim-CsChrimsoncontrol-nwb.nwb",
 "size":
@@ -11030,7 +11030,7 @@
 "blob":
 "8e9dd710-fd18-47ee-8e2a-fc2a2a2afe6c",
 "created":
-"2022-06-09T20:53:15.468122+00:00",
+"2022-06-09T20:53:15.468122Z",
 "metadata":
 {
 "@context":
@@ -11165,7 +11165,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:43.116492+00:00",
+"2023-03-28T16:18:43.116492Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#2001/sub-oviDNSS1-driving-GCaMP7f-fly-ID#2001_ses-2020-07-14-0002-oviDNSS1-GCaMP7f-periodicstim-CsChrimsoncontrol-nwb.nwb",
 "size":
@@ -11177,7 +11177,7 @@
 "blob":
 "b19fc74b-1280-4aa0-9b6e-2b985616deb9",
 "created":
-"2022-06-09T20:53:06.292211+00:00",
+"2022-06-09T20:53:06.292211Z",
 "metadata":
 {
 "@context":
@@ -11312,7 +11312,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:55.696523+00:00",
+"2023-03-28T16:18:55.696523Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#2002/sub-oviDNSS1-driving-GCaMP7f-fly-ID#2002_ses-2020-07-14-0004-oviDNSS1-GCaMP7f-periodicstim-CsChrimsoncontrol-nwb.nwb",
 "size":
@@ -11324,7 +11324,7 @@
 "blob":
 "104bfbd9-b274-4c86-9650-07a094af51da",
 "created":
-"2022-06-09T20:53:19.814238+00:00",
+"2022-06-09T20:53:19.814238Z",
 "metadata":
 {
 "@context":
@@ -11459,7 +11459,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:44.987526+00:00",
+"2023-03-28T16:18:44.987526Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#2003/sub-oviDNSS1-driving-GCaMP7f-fly-ID#2003_ses-2020-07-14-0005-oviDNSS1-GCaMP7f-periodicstim-CsChrimsoncontrol-nwb.nwb",
 "size":
@@ -11471,7 +11471,7 @@
 "blob":
 "3bd8c92f-1502-45d4-a580-f1827ec38975",
 "created":
-"2022-06-09T20:53:20.342232+00:00",
+"2022-06-09T20:53:20.342232Z",
 "metadata":
 {
 "@context":
@@ -11606,7 +11606,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:46.780863+00:00",
+"2023-03-28T16:18:46.780863Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#2004/sub-oviDNSS1-driving-GCaMP7f-fly-ID#2004_ses-2020-07-15-0001-oviDNSS1-GCaMP7f-periodicstim-CsChrimsoncontrol-nwb.nwb",
 "size":
@@ -11618,7 +11618,7 @@
 "blob":
 "c639ce71-735e-4b58-9131-f5122e4b435b",
 "created":
-"2022-06-09T20:53:22.789315+00:00",
+"2022-06-09T20:53:22.789315Z",
 "metadata":
 {
 "@context":
@@ -11753,7 +11753,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:17.663396+00:00",
+"2023-03-28T16:19:17.663396Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#2005/sub-oviDNSS1-driving-GCaMP7f-fly-ID#2005_ses-2020-07-15-0002-oviDNSS1-GCaMP7f-periodicstim-CsChrimsoncontrol-nwb.nwb",
 "size":
@@ -11765,7 +11765,7 @@
 "blob":
 "03e972ac-9f7f-4200-8311-cabc83c0323c",
 "created":
-"2022-06-09T20:53:23.290828+00:00",
+"2022-06-09T20:53:23.290828Z",
 "metadata":
 {
 "@context":
@@ -11900,7 +11900,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:47.414065+00:00",
+"2023-03-28T16:18:47.414065Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6005/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6005_ses-2019-06-11-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -11912,7 +11912,7 @@
 "blob":
 "d6c6f6ce-4f91-4925-b17e-fd537909ac6d",
 "created":
-"2022-06-09T20:53:25.193693+00:00",
+"2022-06-09T20:53:25.193693Z",
 "metadata":
 {
 "@context":
@@ -12047,7 +12047,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:56.247990+00:00",
+"2023-03-28T16:18:56.247990Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6006/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6006_ses-2019-06-11-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -12059,7 +12059,7 @@
 "blob":
 "1ff6f9d6-4870-48d6-8fd1-9baa217fbe71",
 "created":
-"2022-06-09T20:53:27.373927+00:00",
+"2022-06-09T20:53:27.373927Z",
 "metadata":
 {
 "@context":
@@ -12194,7 +12194,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:56.768522+00:00",
+"2023-03-28T16:18:56.768522Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6007/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6007_ses-2019-06-11-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -12206,7 +12206,7 @@
 "blob":
 "2bc2c068-5b63-43c9-bb1d-4ca88d975742",
 "created":
-"2022-06-09T20:53:29.245269+00:00",
+"2022-06-09T20:53:29.245269Z",
 "metadata":
 {
 "@context":
@@ -12341,7 +12341,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:48.075880+00:00",
+"2023-03-28T16:18:48.075880Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6007/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6007_ses-2019-06-11-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -12353,7 +12353,7 @@
 "blob":
 "ba64b87a-e8a9-469b-a0a7-e4eee4ba19f3",
 "created":
-"2022-06-09T20:53:29.715001+00:00",
+"2022-06-09T20:53:29.715001Z",
 "metadata":
 {
 "@context":
@@ -12488,7 +12488,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:48.586107+00:00",
+"2023-03-28T16:18:48.586107Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6008/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6008_ses-2019-06-11-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -12500,7 +12500,7 @@
 "blob":
 "7f1b8095-d880-4771-9a77-236395fe7d55",
 "created":
-"2022-06-09T20:53:31.260529+00:00",
+"2022-06-09T20:53:31.260529Z",
 "metadata":
 {
 "@context":
@@ -12635,7 +12635,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:35.059843+00:00",
+"2023-03-28T16:19:35.059843Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6008/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6008_ses-2019-06-11-0005-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -12647,7 +12647,7 @@
 "blob":
 "82e83146-709c-46c7-8047-0a47924c4ba3",
 "created":
-"2022-06-09T20:53:32.718482+00:00",
+"2022-06-09T20:53:32.718482Z",
 "metadata":
 {
 "@context":
@@ -12782,7 +12782,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:57.292091+00:00",
+"2023-03-28T16:18:57.292091Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6010/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6010_ses-2019-06-11-0006-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -12794,7 +12794,7 @@
 "blob":
 "0446343b-1ff4-43bc-a3e3-5234acfffaed",
 "created":
-"2022-06-09T20:53:36.021226+00:00",
+"2022-06-09T20:53:36.021226Z",
 "metadata":
 {
 "@context":
@@ -12929,7 +12929,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:35.687289+00:00",
+"2023-03-28T16:19:35.687289Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6011/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6011_ses-2019-06-12-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -12941,7 +12941,7 @@
 "blob":
 "0cd4373c-18a3-45cf-b34d-da5a38735b1e",
 "created":
-"2022-06-09T20:53:35.656306+00:00",
+"2022-06-09T20:53:35.656306Z",
 "metadata":
 {
 "@context":
@@ -13076,7 +13076,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:49.189658+00:00",
+"2023-03-28T16:18:49.189658Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6012/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6012_ses-2019-06-12-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -13088,7 +13088,7 @@
 "blob":
 "eb1d8ba2-7dbe-4cac-80b4-61046187e3db",
 "created":
-"2022-06-09T20:53:36.848390+00:00",
+"2022-06-09T20:53:36.848390Z",
 "metadata":
 {
 "@context":
@@ -13223,7 +13223,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:36.352625+00:00",
+"2023-03-28T16:19:36.352625Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6012/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6012_ses-2019-06-12-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -13235,7 +13235,7 @@
 "blob":
 "7e6db89e-cde3-46a2-a4dc-d192ac1407e3",
 "created":
-"2022-06-09T20:53:37.681016+00:00",
+"2022-06-09T20:53:37.681016Z",
 "metadata":
 {
 "@context":
@@ -13370,7 +13370,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:36.876616+00:00",
+"2023-03-28T16:19:36.876616Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6014/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6014_ses-2019-06-12-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -13382,7 +13382,7 @@
 "blob":
 "ff84380f-a413-4f95-bb16-2221b01e05a4",
 "created":
-"2022-06-09T20:53:40.535661+00:00",
+"2022-06-09T20:53:40.535661Z",
 "metadata":
 {
 "@context":
@@ -13517,7 +13517,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:49.688924+00:00",
+"2023-03-28T16:18:49.688924Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6015/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6015_ses-2019-06-13-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -13529,7 +13529,7 @@
 "blob":
 "73efc602-f0fd-4909-bd69-2f841886d17c",
 "created":
-"2022-06-09T20:53:42.104434+00:00",
+"2022-06-09T20:53:42.104434Z",
 "metadata":
 {
 "@context":
@@ -13664,7 +13664,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:57.810232+00:00",
+"2023-03-28T16:18:57.810232Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6015/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6015_ses-2019-06-13-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -13676,7 +13676,7 @@
 "blob":
 "a9f333a2-d6d2-4aec-9e92-119f3ed9c040",
 "created":
-"2022-06-09T20:53:43.366834+00:00",
+"2022-06-09T20:53:43.366834Z",
 "metadata":
 {
 "@context":
@@ -13811,7 +13811,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:58.756090+00:00",
+"2023-03-28T16:18:58.756090Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6016/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6016_ses-2019-06-13-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -13823,7 +13823,7 @@
 "blob":
 "ba8549fb-a9e6-4e1b-b6ee-31b3330c445f",
 "created":
-"2022-06-09T20:53:44.419885+00:00",
+"2022-06-09T20:53:44.419885Z",
 "metadata":
 {
 "@context":
@@ -13958,7 +13958,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:50.377938+00:00",
+"2023-03-28T16:18:50.377938Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6017/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6017_ses-2019-06-13-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -13970,7 +13970,7 @@
 "blob":
 "419fbc6e-eea3-4671-b16c-65922fb5357c",
 "created":
-"2022-06-09T20:53:44.744524+00:00",
+"2022-06-09T20:53:44.744524Z",
 "metadata":
 {
 "@context":
@@ -14105,7 +14105,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:59.429306+00:00",
+"2023-03-28T16:18:59.429306Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6017/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6017_ses-2019-06-13-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -14117,7 +14117,7 @@
 "blob":
 "a126a7de-8df7-46a5-a58b-db79ec6d19ac",
 "created":
-"2022-06-09T20:53:47.531668+00:00",
+"2022-06-09T20:53:47.531668Z",
 "metadata":
 {
 "@context":
@@ -14252,7 +14252,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:00.025934+00:00",
+"2023-03-28T16:19:00.025934Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6018/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6018_ses-2019-06-14-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -14264,7 +14264,7 @@
 "blob":
 "776d9130-5d02-457a-b08e-707888d0cbcf",
 "created":
-"2022-06-09T20:53:48.659395+00:00",
+"2022-06-09T20:53:48.659395Z",
 "metadata":
 {
 "@context":
@@ -14399,7 +14399,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:18.250767+00:00",
+"2023-03-28T16:19:18.250767Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6018/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6018_ses-2019-06-14-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -14411,7 +14411,7 @@
 "blob":
 "8fab0133-e78d-43c5-a132-307534c1f9cc",
 "created":
-"2022-06-09T20:53:49.778248+00:00",
+"2022-06-09T20:53:49.778248Z",
 "metadata":
 {
 "@context":
@@ -14546,7 +14546,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:37.410412+00:00",
+"2023-03-28T16:19:37.410412Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6020/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6020_ses-2019-06-14-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -14558,7 +14558,7 @@
 "blob":
 "c9757ac9-69f5-4aee-8dee-c8979bcfa9f1",
 "created":
-"2022-06-09T20:53:51.236651+00:00",
+"2022-06-09T20:53:51.236651Z",
 "metadata":
 {
 "@context":
@@ -14693,7 +14693,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:18.815327+00:00",
+"2023-03-28T16:19:18.815327Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6021/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6021_ses-2019-06-14-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -14705,7 +14705,7 @@
 "blob":
 "a65d7dbe-8376-4cdb-ad04-21facc492ca7",
 "created":
-"2022-06-09T20:53:55.184111+00:00",
+"2022-06-09T20:53:55.184111Z",
 "metadata":
 {
 "@context":
@@ -14840,7 +14840,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:37.946695+00:00",
+"2023-03-28T16:19:37.946695Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6022/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6022_ses-2019-06-19-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -14852,7 +14852,7 @@
 "blob":
 "6485e7f1-f740-4e2d-b415-0a3b73ced856",
 "created":
-"2022-06-09T20:53:55.410016+00:00",
+"2022-06-09T20:53:55.410016Z",
 "metadata":
 {
 "@context":
@@ -14987,7 +14987,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:19.450223+00:00",
+"2023-03-28T16:19:19.450223Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6023/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6023_ses-2019-06-19-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -14999,7 +14999,7 @@
 "blob":
 "cbbef523-28ef-4443-badf-6344347b3b2b",
 "created":
-"2022-06-09T20:53:56.268243+00:00",
+"2022-06-09T20:53:56.268243Z",
 "metadata":
 {
 "@context":
@@ -15134,7 +15134,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:38.671161+00:00",
+"2023-03-28T16:19:38.671161Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6024/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6024_ses-2019-06-19-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -15146,7 +15146,7 @@
 "blob":
 "d7060419-128b-455f-b390-abcdaae25657",
 "created":
-"2022-06-09T20:54:00.149577+00:00",
+"2022-06-09T20:54:00.149577Z",
 "metadata":
 {
 "@context":
@@ -15281,7 +15281,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:20.106417+00:00",
+"2023-03-28T16:19:20.106417Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6025/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6025_ses-2019-06-19-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -15293,7 +15293,7 @@
 "blob":
 "75bb7406-3635-4e39-9a94-2fad63df2b1a",
 "created":
-"2022-06-09T20:53:57.555393+00:00",
+"2022-06-09T20:53:57.555393Z",
 "metadata":
 {
 "@context":
@@ -15428,7 +15428,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:50.981976+00:00",
+"2023-03-28T16:18:50.981976Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6025/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6025_ses-2019-06-19-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -15440,7 +15440,7 @@
 "blob":
 "6b5d8819-2f80-4780-9935-a2a2777bcc69",
 "created":
-"2022-06-09T20:54:01.919292+00:00",
+"2022-06-09T20:54:01.919292Z",
 "metadata":
 {
 "@context":
@@ -15575,7 +15575,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:39.304951+00:00",
+"2023-03-28T16:19:39.304951Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6027/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6027_ses-2019-06-24-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -15587,7 +15587,7 @@
 "blob":
 "40954436-24eb-44d8-9cec-2607cfaceaab",
 "created":
-"2022-06-09T20:54:02.553954+00:00",
+"2022-06-09T20:54:02.553954Z",
 "metadata":
 {
 "@context":
@@ -15722,7 +15722,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:00.600985+00:00",
+"2023-03-28T16:19:00.600985Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6028/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6028_ses-2019-06-24-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -15734,7 +15734,7 @@
 "blob":
 "2a615205-831a-43fb-bfd2-9566f4bcd110",
 "created":
-"2022-06-09T20:54:04.275956+00:00",
+"2022-06-09T20:54:04.275956Z",
 "metadata":
 {
 "@context":
@@ -15869,7 +15869,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:20.806612+00:00",
+"2023-03-28T16:19:20.806612Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6028/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6028_ses-2019-06-24-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -15881,7 +15881,7 @@
 "blob":
 "dc7081ce-0dd8-497b-89da-eb1054a9b89d",
 "created":
-"2022-06-09T20:54:06.520721+00:00",
+"2022-06-09T20:54:06.520721Z",
 "metadata":
 {
 "@context":
@@ -16016,7 +16016,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:01.245136+00:00",
+"2023-03-28T16:19:01.245136Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6029/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6029_ses-2019-06-24-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -16028,7 +16028,7 @@
 "blob":
 "927921f3-244e-4c99-996b-4d0ff1dcea37",
 "created":
-"2022-06-09T20:54:08.330381+00:00",
+"2022-06-09T20:54:08.330381Z",
 "metadata":
 {
 "@context":
@@ -16163,7 +16163,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:39.990603+00:00",
+"2023-03-28T16:19:39.990603Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6030/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6030_ses-2019-06-25-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -16175,7 +16175,7 @@
 "blob":
 "6367da01-98e5-4601-b924-28cf2894ad9d",
 "created":
-"2022-06-09T20:54:09.865496+00:00",
+"2022-06-09T20:54:09.865496Z",
 "metadata":
 {
 "@context":
@@ -16310,7 +16310,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:01.790710+00:00",
+"2023-03-28T16:19:01.790710Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6031/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6031_ses-2019-06-25-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -16322,7 +16322,7 @@
 "blob":
 "3c9c7a0b-8fa5-4fbd-94ed-903d97747980",
 "created":
-"2022-06-09T20:54:11.761168+00:00",
+"2022-06-09T20:54:11.761168Z",
 "metadata":
 {
 "@context":
@@ -16457,7 +16457,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:02.562371+00:00",
+"2023-03-28T16:19:02.562371Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6032/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6032_ses-2019-06-26-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -16469,7 +16469,7 @@
 "blob":
 "08b42524-9ea9-41b5-a627-6fa1d8672660",
 "created":
-"2022-06-09T20:54:13.043724+00:00",
+"2022-06-09T20:54:13.043724Z",
 "metadata":
 {
 "@context":
@@ -16604,7 +16604,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:51.476181+00:00",
+"2023-03-28T16:18:51.476181Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6033/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6033_ses-2019-06-26-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -16616,7 +16616,7 @@
 "blob":
 "85e9b1b3-2abf-4488-a2a9-72f621019ee0",
 "created":
-"2022-06-09T20:54:13.984577+00:00",
+"2022-06-09T20:54:13.984577Z",
 "metadata":
 {
 "@context":
@@ -16751,7 +16751,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:21.292843+00:00",
+"2023-03-28T16:19:21.292843Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6034/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6034_ses-2019-06-26-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -16763,7 +16763,7 @@
 "blob":
 "47ee8ebc-3283-49b5-9c94-f4ebb5a6b0af",
 "created":
-"2022-06-09T20:54:16.081066+00:00",
+"2022-06-09T20:54:16.081066Z",
 "metadata":
 {
 "@context":
@@ -16898,7 +16898,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:40.941410+00:00",
+"2023-03-28T16:19:40.941410Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6035/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6035_ses-2019-06-26-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -16910,7 +16910,7 @@
 "blob":
 "a598c1d9-b2de-4715-9da2-8d97b7859438",
 "created":
-"2022-06-09T20:54:18.235739+00:00",
+"2022-06-09T20:54:18.235739Z",
 "metadata":
 {
 "@context":
@@ -17045,7 +17045,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:52.262872+00:00",
+"2023-03-28T16:18:52.262872Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6036/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6036_ses-2019-06-28-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -17057,7 +17057,7 @@
 "blob":
 "e6af3e85-2e5d-4eaf-bffd-1de57e5e964f",
 "created":
-"2022-06-09T20:54:18.920079+00:00",
+"2022-06-09T20:54:18.920079Z",
 "metadata":
 {
 "@context":
@@ -17192,7 +17192,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:03.188779+00:00",
+"2023-03-28T16:19:03.188779Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6037/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6037_ses-2019-06-28-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -17204,7 +17204,7 @@
 "blob":
 "cf98a92e-4e9c-4345-bf96-977ed4255349",
 "created":
-"2022-06-09T20:54:20.314815+00:00",
+"2022-06-09T20:54:20.314815Z",
 "metadata":
 {
 "@context":
@@ -17339,7 +17339,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:21.747122+00:00",
+"2023-03-28T16:19:21.747122Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6039/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6039_ses-2019-06-28-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -17351,7 +17351,7 @@
 "blob":
 "1f19b8f6-df1a-4c19-9d62-e39ce83554e1",
 "created":
-"2022-06-09T20:54:21.103152+00:00",
+"2022-06-09T20:54:21.103152Z",
 "metadata":
 {
 "@context":
@@ -17486,7 +17486,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:52.797651+00:00",
+"2023-03-28T16:18:52.797651Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6040/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6040_ses-2019-07-30-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -17498,7 +17498,7 @@
 "blob":
 "3560edaf-2326-4186-8b73-6e39d7b0a50d",
 "created":
-"2022-06-09T20:54:24.107133+00:00",
+"2022-06-09T20:54:24.107133Z",
 "metadata":
 {
 "@context":
@@ -17633,7 +17633,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:41.401662+00:00",
+"2023-03-28T16:19:41.401662Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6041/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6041_ses-2019-07-30-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -17645,7 +17645,7 @@
 "blob":
 "18dc092f-34e2-4370-a4c4-1e97587a3e9b",
 "created":
-"2022-06-09T20:54:25.705025+00:00",
+"2022-06-09T20:54:25.705025Z",
 "metadata":
 {
 "@context":
@@ -17780,7 +17780,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:42.057895+00:00",
+"2023-03-28T16:19:42.057895Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6042/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6042_ses-2019-07-30-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -17792,7 +17792,7 @@
 "blob":
 "063e0daa-27e8-4de9-bbaf-170a7b007df6",
 "created":
-"2022-06-09T20:54:27.470843+00:00",
+"2022-06-09T20:54:27.470843Z",
 "metadata":
 {
 "@context":
@@ -17927,7 +17927,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:53.421310+00:00",
+"2023-03-28T16:18:53.421310Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6043/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6043_ses-2019-07-31-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -17939,7 +17939,7 @@
 "blob":
 "6769f283-1616-49e7-909c-3b7ccca4eaae",
 "created":
-"2022-06-09T20:54:27.853091+00:00",
+"2022-06-09T20:54:27.853091Z",
 "metadata":
 {
 "@context":
@@ -18074,7 +18074,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:22.355230+00:00",
+"2023-03-28T16:19:22.355230Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6043/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6043_ses-2019-07-31-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -18086,7 +18086,7 @@
 "blob":
 "bbe2eb8b-b423-4ba9-8a1c-4939dd92636f",
 "created":
-"2022-06-09T20:54:29.865575+00:00",
+"2022-06-09T20:54:29.865575Z",
 "metadata":
 {
 "@context":
@@ -18221,7 +18221,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:18:54.001627+00:00",
+"2023-03-28T16:18:54.001627Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6044/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6044_ses-2019-07-31-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -18233,7 +18233,7 @@
 "blob":
 "7cbe77c9-db10-4ebc-b2c2-6d27ef1e28ae",
 "created":
-"2022-06-09T20:54:31.775045+00:00",
+"2022-06-09T20:54:31.775045Z",
 "metadata":
 {
 "@context":
@@ -18368,7 +18368,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:23.261806+00:00",
+"2023-03-28T16:19:23.261806Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6045/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6045_ses-2019-07-31-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -18380,7 +18380,7 @@
 "blob":
 "3a720026-0426-46c9-800b-fee5f5ba9a53",
 "created":
-"2022-06-09T20:54:35.570395+00:00",
+"2022-06-09T20:54:35.570395Z",
 "metadata":
 {
 "@context":
@@ -18515,7 +18515,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:24.335102+00:00",
+"2023-03-28T16:19:24.335102Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6046/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6046_ses-2019-08-01-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -18527,7 +18527,7 @@
 "blob":
 "381e8fe7-387f-4b3d-a2f1-9d235c00be64",
 "created":
-"2022-06-09T20:54:35.448779+00:00",
+"2022-06-09T20:54:35.448779Z",
 "metadata":
 {
 "@context":
@@ -18662,7 +18662,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:03.793520+00:00",
+"2023-03-28T16:19:03.793520Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6047/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6047_ses-2019-08-01-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -18674,7 +18674,7 @@
 "blob":
 "d5c5f9ca-afa9-47f7-913c-2ec546604bab",
 "created":
-"2022-06-09T20:54:35.476065+00:00",
+"2022-06-09T20:54:35.476065Z",
 "metadata":
 {
 "@context":
@@ -18809,7 +18809,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:42.765982+00:00",
+"2023-03-28T16:19:42.765982Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6048/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6048_ses-2019-08-01-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -18821,7 +18821,7 @@
 "blob":
 "aab0ba8d-0076-4414-968e-82cadf6ebc6b",
 "created":
-"2022-06-09T20:54:36.655902+00:00",
+"2022-06-09T20:54:36.655902Z",
 "metadata":
 {
 "@context":
@@ -18956,7 +18956,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:25.161806+00:00",
+"2023-03-28T16:19:25.161806Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6049/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6049_ses-2019-08-01-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -18968,7 +18968,7 @@
 "blob":
 "bcceb067-2174-41ec-bc17-7bc547d21b2f",
 "created":
-"2022-06-09T20:54:37.683712+00:00",
+"2022-06-09T20:54:37.683712Z",
 "metadata":
 {
 "@context":
@@ -19103,7 +19103,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:43.273940+00:00",
+"2023-03-28T16:19:43.273940Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6049/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6049_ses-2019-08-01-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -19115,7 +19115,7 @@
 "blob":
 "729ef833-a97c-42f6-ab5d-b3658f65d37a",
 "created":
-"2022-06-09T20:54:41.808213+00:00",
+"2022-06-09T20:54:41.808213Z",
 "metadata":
 {
 "@context":
@@ -19250,7 +19250,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:25.879175+00:00",
+"2023-03-28T16:19:25.879175Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6050/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6050_ses-2019-08-02-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -19262,7 +19262,7 @@
 "blob":
 "849883ee-f6dc-429b-8df0-91a209bbc580",
 "created":
-"2022-06-09T20:54:43.194096+00:00",
+"2022-06-09T20:54:43.194096Z",
 "metadata":
 {
 "@context":
@@ -19397,7 +19397,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:54.053179+00:00",
+"2023-03-28T16:19:54.053179Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6051/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6051_ses-2019-08-02-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -19409,7 +19409,7 @@
 "blob":
 "91d2b7e9-1650-4467-b76b-dbc85f5b91d8",
 "created":
-"2022-06-09T20:54:43.268148+00:00",
+"2022-06-09T20:54:43.268148Z",
 "metadata":
 {
 "@context":
@@ -19544,7 +19544,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:04.279910+00:00",
+"2023-03-28T16:19:04.279910Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6052/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6052_ses-2019-08-03-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -19556,7 +19556,7 @@
 "blob":
 "4205f280-185a-436c-8a37-a374e2e7283b",
 "created":
-"2022-06-09T20:54:44.186094+00:00",
+"2022-06-09T20:54:44.186094Z",
 "metadata":
 {
 "@context":
@@ -19691,7 +19691,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:43.902267+00:00",
+"2023-03-28T16:19:43.902267Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6052/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6052_ses-2019-08-03-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -19703,7 +19703,7 @@
 "blob":
 "da1ada25-4354-4e47-a73a-24796c4f5a39",
 "created":
-"2022-06-09T20:54:47.813775+00:00",
+"2022-06-09T20:54:47.813775Z",
 "metadata":
 {
 "@context":
@@ -19838,7 +19838,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:04.975498+00:00",
+"2023-03-28T16:19:04.975498Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6053/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6053_ses-2019-08-03-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -19850,7 +19850,7 @@
 "blob":
 "b494841d-257a-46f2-8f32-111985031596",
 "created":
-"2022-06-09T20:54:49.159252+00:00",
+"2022-06-09T20:54:49.159252Z",
 "metadata":
 {
 "@context":
@@ -19985,7 +19985,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:44.611184+00:00",
+"2023-03-28T16:19:44.611184Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6054/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6054_ses-2019-08-03-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -19997,7 +19997,7 @@
 "blob":
 "749870f2-4560-4cb0-aa66-aadffd88c0d3",
 "created":
-"2022-06-09T20:54:50.470877+00:00",
+"2022-06-09T20:54:50.470877Z",
 "metadata":
 {
 "@context":
@@ -20132,7 +20132,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:45.261404+00:00",
+"2023-03-28T16:19:45.261404Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6055/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6055_ses-2019-08-03-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -20144,7 +20144,7 @@
 "blob":
 "088f4a2c-a97e-4e3f-847e-1c6d152a00a5",
 "created":
-"2022-06-09T20:54:52.599242+00:00",
+"2022-06-09T20:54:52.599242Z",
 "metadata":
 {
 "@context":
@@ -20279,7 +20279,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:54.770669+00:00",
+"2023-03-28T16:19:54.770669Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6057/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6057_ses-2019-08-05-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -20291,7 +20291,7 @@
 "blob":
 "c8ce6ffd-aba7-46e6-a011-1c1b0ba03568",
 "created":
-"2022-06-09T20:54:53.447175+00:00",
+"2022-06-09T20:54:53.447175Z",
 "metadata":
 {
 "@context":
@@ -20426,7 +20426,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:05.716749+00:00",
+"2023-03-28T16:19:05.716749Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6057/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6057_ses-2019-08-05-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -20438,7 +20438,7 @@
 "blob":
 "bc63065d-e753-46aa-8b4c-7e84b79d36b6",
 "created":
-"2022-06-09T20:54:54.699156+00:00",
+"2022-06-09T20:54:54.699156Z",
 "metadata":
 {
 "@context":
@@ -20573,7 +20573,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:45.891015+00:00",
+"2023-03-28T16:19:45.891015Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6058/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6058_ses-2019-08-06-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -20585,7 +20585,7 @@
 "blob":
 "68a4ca91-aa41-432a-9fd3-94305d213a17",
 "created":
-"2022-06-09T20:54:57.377916+00:00",
+"2022-06-09T20:54:57.377916Z",
 "metadata":
 {
 "@context":
@@ -20720,7 +20720,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:46.749187+00:00",
+"2023-03-28T16:19:46.749187Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6059/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6059_ses-2019-08-06-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -20732,7 +20732,7 @@
 "blob":
 "d7c7e3de-3acf-4aa5-8e99-1ab939004e02",
 "created":
-"2022-06-09T20:54:59.092290+00:00",
+"2022-06-09T20:54:59.092290Z",
 "metadata":
 {
 "@context":
@@ -20867,7 +20867,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:55.567655+00:00",
+"2023-03-28T16:19:55.567655Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6060/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6060_ses-2019-08-06-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -20879,7 +20879,7 @@
 "blob":
 "ad8c9583-cb31-4a34-8271-a3848b224bd6",
 "created":
-"2022-06-09T20:55:03.055809+00:00",
+"2022-06-09T20:55:03.055809Z",
 "metadata":
 {
 "@context":
@@ -21014,7 +21014,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:48.051129+00:00",
+"2023-03-28T16:19:48.051129Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6061/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6061_ses-2019-08-06-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -21026,7 +21026,7 @@
 "blob":
 "9b1a4208-ca0a-4f22-9562-e827be571035",
 "created":
-"2022-06-09T20:55:02.366549+00:00",
+"2022-06-09T20:55:02.366549Z",
 "metadata":
 {
 "@context":
@@ -21161,7 +21161,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:47.350862+00:00",
+"2023-03-28T16:19:47.350862Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6061/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6061_ses-2019-08-06-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -21173,7 +21173,7 @@
 "blob":
 "4e118972-4141-411a-88b6-f77fe3f3e27e",
 "created":
-"2022-06-09T20:55:03.233097+00:00",
+"2022-06-09T20:55:03.233097Z",
 "metadata":
 {
 "@context":
@@ -21308,7 +21308,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:56.161792+00:00",
+"2023-03-28T16:19:56.161792Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6062/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6062_ses-2019-08-07-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -21320,7 +21320,7 @@
 "blob":
 "dbeb4ef1-a865-4ca9-bb32-bea45e570630",
 "created":
-"2022-06-09T20:55:04.039375+00:00",
+"2022-06-09T20:55:04.039375Z",
 "metadata":
 {
 "@context":
@@ -21455,7 +21455,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:26.673891+00:00",
+"2023-03-28T16:19:26.673891Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6063/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6063_ses-2019-08-07-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -21467,7 +21467,7 @@
 "blob":
 "08fba1c9-a4fe-49a5-acc0-3db0aef46401",
 "created":
-"2022-06-09T20:55:07.235188+00:00",
+"2022-06-09T20:55:07.235188Z",
 "metadata":
 {
 "@context":
@@ -21602,7 +21602,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:27.198913+00:00",
+"2023-03-28T16:19:27.198913Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6064/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6064_ses-2019-08-07-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -21614,7 +21614,7 @@
 "blob":
 "1f1d1d78-7654-40d9-8056-079063d825c0",
 "created":
-"2022-06-09T20:55:08.096130+00:00",
+"2022-06-09T20:55:08.096130Z",
 "metadata":
 {
 "@context":
@@ -21749,7 +21749,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:56.800635+00:00",
+"2023-03-28T16:19:56.800635Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6064/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6064_ses-2019-08-07-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -21761,7 +21761,7 @@
 "blob":
 "0bca0065-bd31-437b-a0f3-020267e42d7a",
 "created":
-"2022-06-09T20:55:10.111029+00:00",
+"2022-06-09T20:55:10.111029Z",
 "metadata":
 {
 "@context":
@@ -21896,7 +21896,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:57.468204+00:00",
+"2023-03-28T16:19:57.468204Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6065/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6065_ses-2019-12-16-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -21908,7 +21908,7 @@
 "blob":
 "852725bf-5601-4940-8b4c-49a517e2cc84",
 "created":
-"2022-06-09T20:55:11.012464+00:00",
+"2022-06-09T20:55:11.012464Z",
 "metadata":
 {
 "@context":
@@ -22043,7 +22043,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:57.989484+00:00",
+"2023-03-28T16:19:57.989484Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6066/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6066_ses-2019-12-16-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -22055,7 +22055,7 @@
 "blob":
 "d32b312c-b62a-4146-b663-18d55dbef17c",
 "created":
-"2022-06-09T20:55:15.048348+00:00",
+"2022-06-09T20:55:15.048348Z",
 "metadata":
 {
 "@context":
@@ -22190,7 +22190,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:58.818635+00:00",
+"2023-03-28T16:19:58.818635Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6067/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6067_ses-2019-12-16-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -22202,7 +22202,7 @@
 "blob":
 "255cd343-978e-42c5-ba89-3c07ece66937",
 "created":
-"2022-06-09T20:55:15.071693+00:00",
+"2022-06-09T20:55:15.071693Z",
 "metadata":
 {
 "@context":
@@ -22337,7 +22337,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:48.609420+00:00",
+"2023-03-28T16:19:48.609420Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6068/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6068_ses-2019-12-16-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -22349,7 +22349,7 @@
 "blob":
 "359fa02f-2d1c-4c36-a844-4a8599244b9c",
 "created":
-"2022-06-09T20:55:16.570692+00:00",
+"2022-06-09T20:55:16.570692Z",
 "metadata":
 {
 "@context":
@@ -22484,7 +22484,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:49.149096+00:00",
+"2023-03-28T16:19:49.149096Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6068/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6068_ses-2019-12-16-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -22496,7 +22496,7 @@
 "blob":
 "b654770e-089a-479d-a0ad-05a54034fab4",
 "created":
-"2022-06-09T20:55:16.719165+00:00",
+"2022-06-09T20:55:16.719165Z",
 "metadata":
 {
 "@context":
@@ -22631,7 +22631,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:06.385770+00:00",
+"2023-03-28T16:19:06.385770Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6069/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6069_ses-2019-12-19-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -22643,7 +22643,7 @@
 "blob":
 "c935859b-991e-4578-b1e5-1799ca304db4",
 "created":
-"2022-06-09T20:55:19.268677+00:00",
+"2022-06-09T20:55:19.268677Z",
 "metadata":
 {
 "@context":
@@ -22778,7 +22778,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:06.903491+00:00",
+"2023-03-28T16:19:06.903491Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6070/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6070_ses-2019-12-19-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -22790,7 +22790,7 @@
 "blob":
 "959c4033-8839-42c0-8dbc-f90432035ba8",
 "created":
-"2022-06-09T20:55:20.839904+00:00",
+"2022-06-09T20:55:20.839904Z",
 "metadata":
 {
 "@context":
@@ -22925,7 +22925,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:49.786902+00:00",
+"2023-03-28T16:19:49.786902Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6071/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6071_ses-2019-12-19-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -22937,7 +22937,7 @@
 "blob":
 "be6a3358-8230-437c-ac76-dd0a4ab2f936",
 "created":
-"2022-06-09T20:55:24.650352+00:00",
+"2022-06-09T20:55:24.650352Z",
 "metadata":
 {
 "@context":
@@ -23072,7 +23072,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:07.411047+00:00",
+"2023-03-28T16:19:07.411047Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6072/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6072_ses-2019-12-20-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -23084,7 +23084,7 @@
 "blob":
 "70006d79-0889-4f27-a871-1bca0697dc14",
 "created":
-"2022-06-09T20:55:24.342287+00:00",
+"2022-06-09T20:55:24.342287Z",
 "metadata":
 {
 "@context":
@@ -23219,7 +23219,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:27.804515+00:00",
+"2023-03-28T16:19:27.804515Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6072/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6072_ses-2019-12-20-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -23231,7 +23231,7 @@
 "blob":
 "2cdff4a6-ae56-4817-a1ab-ac6771be1003",
 "created":
-"2022-06-09T20:55:26.043509+00:00",
+"2022-06-09T20:55:26.043509Z",
 "metadata":
 {
 "@context":
@@ -23366,7 +23366,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:59.420068+00:00",
+"2023-03-28T16:19:59.420068Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6073/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6073_ses-2019-12-20-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -23378,7 +23378,7 @@
 "blob":
 "fd7ed625-9c5d-4335-9433-2e0a7b5d37b6",
 "created":
-"2022-06-09T20:55:27.200996+00:00",
+"2022-06-09T20:55:27.200996Z",
 "metadata":
 {
 "@context":
@@ -23513,7 +23513,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:08.141251+00:00",
+"2023-03-28T16:19:08.141251Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6074/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6074_ses-2019-12-20-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -23525,7 +23525,7 @@
 "blob":
 "969b73fc-8618-494f-a55c-fc11fbb5e3b8",
 "created":
-"2022-06-09T20:55:29.040231+00:00",
+"2022-06-09T20:55:29.040231Z",
 "metadata":
 {
 "@context":
@@ -23660,7 +23660,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:59.919437+00:00",
+"2023-03-28T16:19:59.919437Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6076/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6076_ses-2020-06-22-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -23672,7 +23672,7 @@
 "blob":
 "6103d989-8b32-46ba-846a-bc718aaf49eb",
 "created":
-"2022-06-09T20:55:29.306694+00:00",
+"2022-06-09T20:55:29.306694Z",
 "metadata":
 {
 "@context":
@@ -23807,7 +23807,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:50.298368+00:00",
+"2023-03-28T16:19:50.298368Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6077/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6077_ses-2020-06-22-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -23819,7 +23819,7 @@
 "blob":
 "32ca3208-b592-4af5-afaa-74d7b334cc16",
 "created":
-"2022-06-09T20:55:30.848212+00:00",
+"2022-06-09T20:55:30.848212Z",
 "metadata":
 {
 "@context":
@@ -23954,7 +23954,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:20:00.582799+00:00",
+"2023-03-28T16:20:00.582799Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6078/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6078_ses-2020-06-23-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -23966,7 +23966,7 @@
 "blob":
 "2afd51a7-8e7e-4ec0-bf21-35c5c42f24a9",
 "created":
-"2022-06-09T20:55:31.748365+00:00",
+"2022-06-09T20:55:31.748365Z",
 "metadata":
 {
 "@context":
@@ -24101,7 +24101,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:08.718507+00:00",
+"2023-03-28T16:19:08.718507Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6080/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6080_ses-2020-06-23-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -24113,7 +24113,7 @@
 "blob":
 "563cf308-0700-4845-92e5-fff47a7774dc",
 "created":
-"2022-06-09T20:55:33.780722+00:00",
+"2022-06-09T20:55:33.780722Z",
 "metadata":
 {
 "@context":
@@ -24248,7 +24248,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:09.290219+00:00",
+"2023-03-28T16:19:09.290219Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6081/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6081_ses-2020-06-23-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -24260,7 +24260,7 @@
 "blob":
 "70e282e1-7b3b-4a35-8f16-9a4b47b03a68",
 "created":
-"2022-06-09T20:55:33.984047+00:00",
+"2022-06-09T20:55:33.984047Z",
 "metadata":
 {
 "@context":
@@ -24395,7 +24395,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:28.315745+00:00",
+"2023-03-28T16:19:28.315745Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6082/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6082_ses-2020-06-24-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -24407,7 +24407,7 @@
 "blob":
 "317c060a-398b-4ee5-b6d4-4dea17e614c8",
 "created":
-"2022-06-09T20:55:35.654790+00:00",
+"2022-06-09T20:55:35.654790Z",
 "metadata":
 {
 "@context":
@@ -24542,7 +24542,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:50.918539+00:00",
+"2023-03-28T16:19:50.918539Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6083/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6083_ses-2020-06-24-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -24554,7 +24554,7 @@
 "blob":
 "22e5e8f7-5a30-4118-8045-b86ba204ea38",
 "created":
-"2022-06-09T20:55:36.221646+00:00",
+"2022-06-09T20:55:36.221646Z",
 "metadata":
 {
 "@context":
@@ -24689,7 +24689,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:20:01.036988+00:00",
+"2023-03-28T16:20:01.036988Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6083/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6083_ses-2020-06-24-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -24701,7 +24701,7 @@
 "blob":
 "58f01688-613c-4c99-aea0-5ba63578b991",
 "created":
-"2022-06-09T20:55:36.817187+00:00",
+"2022-06-09T20:55:36.817187Z",
 "metadata":
 {
 "@context":
@@ -24836,7 +24836,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:09.980854+00:00",
+"2023-03-28T16:19:09.980854Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6084/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6084_ses-2020-06-24-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -24848,7 +24848,7 @@
 "blob":
 "67a9079b-9b74-4d9f-a37d-ba4146a95ea7",
 "created":
-"2022-06-09T20:55:38.501137+00:00",
+"2022-06-09T20:55:38.501137Z",
 "metadata":
 {
 "@context":
@@ -24983,7 +24983,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:28.966623+00:00",
+"2023-03-28T16:19:28.966623Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6085/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6085_ses-2020-07-20-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -24995,7 +24995,7 @@
 "blob":
 "e6e78fe3-e6ed-436c-a51b-6bfe18a6e07d",
 "created":
-"2022-06-09T20:55:39.086273+00:00",
+"2022-06-09T20:55:39.086273Z",
 "metadata":
 {
 "@context":
@@ -25130,7 +25130,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:29.618885+00:00",
+"2023-03-28T16:19:29.618885Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6086/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6086_ses-2020-07-20-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -25142,7 +25142,7 @@
 "blob":
 "81a6465e-bd96-4aae-98b6-10829c6400ad",
 "created":
-"2022-06-09T20:55:41.621749+00:00",
+"2022-06-09T20:55:41.621749Z",
 "metadata":
 {
 "@context":
@@ -25277,7 +25277,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:51.437712+00:00",
+"2023-03-28T16:19:51.437712Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6087/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6087_ses-2020-07-20-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -25289,7 +25289,7 @@
 "blob":
 "b03a72b3-4650-4e8b-bdfa-4b13627d40dd",
 "created":
-"2022-06-09T20:55:42.609832+00:00",
+"2022-06-09T20:55:42.609832Z",
 "metadata":
 {
 "@context":
@@ -25424,7 +25424,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:30.140278+00:00",
+"2023-03-28T16:19:30.140278Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6088/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6088_ses-2020-07-20-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -25436,7 +25436,7 @@
 "blob":
 "45ba5f85-4b51-47d5-b848-dd83e5c0ba45",
 "created":
-"2022-06-09T20:55:42.730013+00:00",
+"2022-06-09T20:55:42.730013Z",
 "metadata":
 {
 "@context":
@@ -25571,7 +25571,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:10.463419+00:00",
+"2023-03-28T16:19:10.463419Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6089/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6089_ses-2020-07-20-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -25583,7 +25583,7 @@
 "blob":
 "f67d5ccf-0961-4afd-b8d3-29a26add726d",
 "created":
-"2022-06-09T20:55:43.437039+00:00",
+"2022-06-09T20:55:43.437039Z",
 "metadata":
 {
 "@context":
@@ -25718,7 +25718,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:52.026746+00:00",
+"2023-03-28T16:19:52.026746Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6090/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6090_ses-2020-07-20-0005-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -25730,7 +25730,7 @@
 "blob":
 "67b2d81a-7be0-4d87-97cd-77b83774a88a",
 "created":
-"2022-06-09T20:55:44.109232+00:00",
+"2022-06-09T20:55:44.109232Z",
 "metadata":
 {
 "@context":
@@ -25865,7 +25865,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:10.944684+00:00",
+"2023-03-28T16:19:10.944684Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6091/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6091_ses-2020-07-21-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -25877,7 +25877,7 @@
 "blob":
 "8002f545-ff11-41e2-89a5-ed12bbda6b66",
 "created":
-"2022-06-09T20:55:46.321786+00:00",
+"2022-06-09T20:55:46.321786Z",
 "metadata":
 {
 "@context":
@@ -26012,7 +26012,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:11.525641+00:00",
+"2023-03-28T16:19:11.525641Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6092/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6092_ses-2020-07-21-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -26024,7 +26024,7 @@
 "blob":
 "4414ad47-846f-4aa5-a47b-44966776f676",
 "created":
-"2022-06-09T20:55:48.080093+00:00",
+"2022-06-09T20:55:48.080093Z",
 "metadata":
 {
 "@context":
@@ -26159,7 +26159,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:12.087612+00:00",
+"2023-03-28T16:19:12.087612Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6093/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6093_ses-2020-07-21-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -26171,7 +26171,7 @@
 "blob":
 "34f02125-d970-4de9-a14d-aad7f85e2a44",
 "created":
-"2022-06-09T20:55:49.269929+00:00",
+"2022-06-09T20:55:49.269929Z",
 "metadata":
 {
 "@context":
@@ -26306,7 +26306,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:12.600336+00:00",
+"2023-03-28T16:19:12.600336Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6094/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6094_ses-2020-07-21-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -26318,7 +26318,7 @@
 "blob":
 "a6e701cd-e287-49a0-9c1e-4c49ad95eaa0",
 "created":
-"2022-06-09T20:55:48.877398+00:00",
+"2022-06-09T20:55:48.877398Z",
 "metadata":
 {
 "@context":
@@ -26453,7 +26453,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:52.623178+00:00",
+"2023-03-28T16:19:52.623178Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6095/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6095_ses-2020-07-21-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -26465,7 +26465,7 @@
 "blob":
 "16a15c2e-9168-4a8c-8837-8db008f9b4d3",
 "created":
-"2022-06-09T20:55:49.435953+00:00",
+"2022-06-09T20:55:49.435953Z",
 "metadata":
 {
 "@context":
@@ -26600,7 +26600,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:30.695291+00:00",
+"2023-03-28T16:19:30.695291Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6096/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6096_ses-2020-07-21-0005-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -26612,7 +26612,7 @@
 "blob":
 "cbb48c33-beff-4099-871d-c8bc0514980f",
 "created":
-"2022-06-09T20:55:51.496789+00:00",
+"2022-06-09T20:55:51.496789Z",
 "metadata":
 {
 "@context":
@@ -26747,7 +26747,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:31.669073+00:00",
+"2023-03-28T16:19:31.669073Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6096/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6096_ses-2020-07-21-0006-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -26759,7 +26759,7 @@
 "blob":
 "b55bab97-3e6f-470d-8dfc-0a1221a3a554",
 "created":
-"2022-06-09T20:55:52.688600+00:00",
+"2022-06-09T20:55:52.688600Z",
 "metadata":
 {
 "@context":
@@ -26894,7 +26894,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:20:01.658484+00:00",
+"2023-03-28T16:20:01.658484Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6097/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6097_ses-2021-03-29-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -26906,7 +26906,7 @@
 "blob":
 "607b9538-9b88-427e-9426-c59504978aec",
 "created":
-"2022-06-09T20:55:53.724005+00:00",
+"2022-06-09T20:55:53.724005Z",
 "metadata":
 {
 "@context":
@@ -27041,7 +27041,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:13.142617+00:00",
+"2023-03-28T16:19:13.142617Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6098/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6098_ses-2021-03-29-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -27053,7 +27053,7 @@
 "blob":
 "d7302ece-5ff7-44ea-a72e-d1cf402fc84a",
 "created":
-"2022-06-09T20:55:54.902694+00:00",
+"2022-06-09T20:55:54.902694Z",
 "metadata":
 {
 "@context":
@@ -27188,7 +27188,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:13.562319+00:00",
+"2023-03-28T16:19:13.562319Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6099/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6099_ses-2021-03-29-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -27200,7 +27200,7 @@
 "blob":
 "292f0843-01cf-42c1-a9a3-6bb92154b3e6",
 "created":
-"2022-06-09T20:55:55.246672+00:00",
+"2022-06-09T20:55:55.246672Z",
 "metadata":
 {
 "@context":
@@ -27335,7 +27335,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:32.118706+00:00",
+"2023-03-28T16:19:32.118706Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6100/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6100_ses-2021-03-29-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -27347,7 +27347,7 @@
 "blob":
 "5c1c6977-5dac-48ac-bc71-da30da89b959",
 "created":
-"2022-06-09T20:55:56.051270+00:00",
+"2022-06-09T20:55:56.051270Z",
 "metadata":
 {
 "@context":
@@ -27482,7 +27482,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:32.673766+00:00",
+"2023-03-28T16:19:32.673766Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#6101/sub-oviDNSS1-driving-GCaMP7f-fly-ID#6101_ses-2021-03-29-0004-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -27494,7 +27494,7 @@
 "blob":
 "680e42f4-e0a0-46fa-a8d3-76c1a7dd35e4",
 "created":
-"2022-06-09T20:55:59.111437+00:00",
+"2022-06-09T20:55:59.111437Z",
 "metadata":
 {
 "@context":
@@ -27629,7 +27629,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:33.924984+00:00",
+"2023-03-28T16:19:33.924984Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#7000/sub-oviDNSS1-driving-GCaMP7f-fly-ID#7000_ses-2019-11-14-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -27641,7 +27641,7 @@
 "blob":
 "bf699626-8169-48c2-aba0-c28e8d56c8f1",
 "created":
-"2022-06-09T20:55:59.025617+00:00",
+"2022-06-09T20:55:59.025617Z",
 "metadata":
 {
 "@context":
@@ -27776,7 +27776,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:33.308611+00:00",
+"2023-03-28T16:19:33.308611Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#7001/sub-oviDNSS1-driving-GCaMP7f-fly-ID#7001_ses-2019-11-14-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -27788,7 +27788,7 @@
 "blob":
 "07d6c700-fe12-4ebe-a2e7-16d32a2cb6a9",
 "created":
-"2022-06-09T20:56:02.051042+00:00",
+"2022-06-09T20:56:02.051042Z",
 "metadata":
 {
 "@context":
@@ -27923,7 +27923,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:14.031142+00:00",
+"2023-03-28T16:19:14.031142Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#7002/sub-oviDNSS1-driving-GCaMP7f-fly-ID#7002_ses-2019-11-14-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -27935,7 +27935,7 @@
 "blob":
 "55bfefca-dff3-40e6-a768-c8f67db2e4c8",
 "created":
-"2022-06-09T20:56:01.749450+00:00",
+"2022-06-09T20:56:01.749450Z",
 "metadata":
 {
 "@context":
@@ -28070,7 +28070,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:53.204682+00:00",
+"2023-03-28T16:19:53.204682Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#7003/sub-oviDNSS1-driving-GCaMP7f-fly-ID#7003_ses-2019-12-13-0000-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -28082,7 +28082,7 @@
 "blob":
 "942616e6-77af-4021-9448-7a7dc00d3d88",
 "created":
-"2022-06-09T20:56:00.894946+00:00",
+"2022-06-09T20:56:00.894946Z",
 "metadata":
 {
 "@context":
@@ -28217,7 +28217,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:19:34.546586+00:00",
+"2023-03-28T16:19:34.546586Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#7004/sub-oviDNSS1-driving-GCaMP7f-fly-ID#7004_ses-2019-12-13-0001-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -28229,7 +28229,7 @@
 "blob":
 "69f9d507-9f47-4436-8c34-c2084436ca61",
 "created":
-"2022-06-09T20:56:06.242610+00:00",
+"2022-06-09T20:56:06.242610Z",
 "metadata":
 {
 "@context":
@@ -28364,7 +28364,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:20:02.772977+00:00",
+"2023-03-28T16:20:02.772977Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#7005/sub-oviDNSS1-driving-GCaMP7f-fly-ID#7005_ses-2019-12-13-0002-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
@@ -28376,7 +28376,7 @@
 "blob":
 "4fd95508-c460-470e-bb4c-00fa1bc0164e",
 "created":
-"2022-06-09T20:56:05.872363+00:00",
+"2022-06-09T20:56:05.872363Z",
 "metadata":
 {
 "@context":
@@ -28511,7 +28511,7 @@
 ]
 },
 "modified":
-"2023-03-28T16:20:02.168745+00:00",
+"2023-03-28T16:20:02.168745Z",
 "path":
 "sub-oviDNSS1-driving-GCaMP7f-fly-ID#7006/sub-oviDNSS1-driving-GCaMP7f-fly-ID#7006_ses-2019-12-13-0003-oviDNSS1-GCaMP7f-nwb.nwb",
 "size":
